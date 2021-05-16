@@ -1,4 +1,3 @@
-#include <iostream>
 #include "SpriteData.h"
 
 void SpriteData::setRotation(int rot) {
